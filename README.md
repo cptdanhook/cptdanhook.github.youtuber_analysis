@@ -462,9 +462,9 @@ For the next steps we need to look at analysing the metrics that are key for gen
 Campaign Subject: Product Placement
 
 Key variables:
-Product cost = £5
-Conversion Rate = 2%
-Campaign Cost (one-time fee) = £50,000
+- Product cost = £5
+- Conversion Rate = 2%
+- Campaign Cost (one-time fee) = £50,000
 
 a. NoCopyrightSounds 
 
@@ -553,9 +553,9 @@ ORDER BY
 Campaign Subject: Sponsored video series (11 video deal)
 
 Key variables:
-Product cost = £5
-Conversion Rate = 2%
-Campaign Cost (11-videos @ £5,000) = £55,000
+- Product cost = £5
+- Conversion Rate = 2%
+- Campaign Cost (11-videos @ £5,000) = £55,000
 
 a. GRM Daily
 b. Manchester City
@@ -625,9 +625,9 @@ ORDER BY
 Campaign Subject: Influencer Marketing (3 Month deal)
 
 Key variables:
-Product cost = £5
-Conversion Rate = 2%
-Campaign Cost (3-month deal @ £5,000) = £130,000
+- Product cost = £5
+- Conversion Rate = 2%
+- Campaign Cost (3-month deal @ £5,000) = £130,000
 
 a. DanTDM
 b. Dan Rhodes
