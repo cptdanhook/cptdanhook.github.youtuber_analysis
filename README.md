@@ -68,6 +68,7 @@ This should allow our team to identify the top performing channels through engag
 4. Analysis
    
 # Design
+
 ## Dashboard Questions
 - What should the dashboard contain based on the above requirements?
   
@@ -89,7 +90,8 @@ Recommended data visuals:
 3. Scorecards
 4. Horizontal bar chart
 
--insert mockup here-
+![Dashboard-Mockup](assets/images/dashboard mockup.png)
+
 ## Tools
 
 | Tool  | Purpose                                                   |
@@ -221,8 +223,7 @@ FROM
 
 ```
 
-### Output
-- insert image here -
+
 
 ## Column count check
 ### SQL query
@@ -240,8 +241,7 @@ FROM
 WHERE
     TABLE_NAME = 'view_uk_youtubers_2024'
 ```
-### Output
-- insert image here -
+
 
 ## Data type check
 ### SQL query
@@ -260,8 +260,7 @@ FROM
 WHERE
     TABLE_NAME = 'view_uk_youtubers_2024';
 ```
-### Output
-- insert image here -
+
 
 ## Duplicate count check
 ### SQL query
@@ -288,8 +287,6 @@ GROUP BY
 HAVING
     COUNT(*) > 1;
 ```
-### Output
-- insert image here -
 
 
 # Visualization
@@ -297,7 +294,8 @@ HAVING
 ## Results
 
 How does the dashboards look?
-- insert image here -
+
+![Power BI Dashboard](assets/images/PowerBI dashboard.png)
 
 
 ## DAX Measures
@@ -468,26 +466,26 @@ Key variables:
 
 a. NoCopyrightSounds 
 
-- Average views per video
-- Potential units sold per video
-- Potential revenue per video
-- ** Net profit**
+- Average views per video = 6.92 million
+- Potential units sold per video = 6.92 million x conversion rate = 138,400 units sold
+- Potential revenue per video = 138,400 x product cost = £692,000
+- ** Net profit = £692,000 - campaign cost = £642,000**
 
 b. DanTDM
 
-- Average views per video
-- Potential units sold per video
-- Potential revenue per video
-- ** Net profit**
+- Average views per video = 5.34 million
+- Potential units sold per video = 5.34 million x conversion rate = 106,800 units sold
+- Potential revenue per video = 106,800 x product cost = £534,000
+- ** Net profit = £534,000 - campaign cost = £484,000**
 
 c. Dan Rhodes
 
-- Average views per video
-- Potential units sold per video
-- Potential revenue per video
-- ** Net profit**
+- Average views per video = 11.15 million
+- Potential units sold per video = 11.15 million x conversion rate = 223,000 units sold
+- Potential revenue per video = 223,000 x product cost = £1,115,000
+- ** Net profit = £1,115,000 - campaign cost = £1,065,000**
 
-Best choice from category: Dan Rhodes
+Best choice from category: **Dan Rhodes**
 
 #### SQL query
 
@@ -544,7 +542,7 @@ ORDER BY
 
 #### Output
 
-- insert image here -
+![Most subscribers](assets/images/most subs campaign.png)
 
 ### 2. Youtubers with the most videos uploaded
 
@@ -558,10 +556,25 @@ Key variables:
 - Campaign Cost (11-videos @ £5,000) = £55,000
 
 a. GRM Daily
+- Average views per video = 510,000
+- Potential units sold per video = 510,000 x conversion rate = 10,200 units sold
+- Potential revenue per video = 10,200 x product cost = £51,000
+- ** Net profit = £51,000 - campaign cost = -£4,0000 (potential LOSS)**
+  
 b. Manchester City
-c. Yogscast
+- Average views per video = 240,000
+- Potential units sold per video = 240,000 x conversion rate = 4,800 units sold
+- Potential revenue per video = 4,800 x product cost = £24,000
+- ** Net profit = £24,000 - campaign cost = -£31,000 (potential LOSS)**
 
-Best choice from category: Yogscast
+c. Yogscast
+- Average views per video = 710,000
+- Potential units sold per video = 710,000 x conversion rate = 14,200 units sold
+- Potential revenue per video = 14,200 x product cost = £71,000
+- ** Net profit = £71,000 - campaign cost = £16,000 (PROFIT)**
+
+
+Best choice from category: **Yogscast**
 
 #### SQL query 
 ```sql
@@ -616,7 +629,7 @@ ORDER BY
 
 #### Output
 
-- insert image here -
+![Most videos](assets/images/most vids campaign.png)
 
 ### 3.  Youtubers with the most views 
 
@@ -630,10 +643,25 @@ Key variables:
 - Campaign Cost (3-month deal @ £5,000) = £130,000
 
 a. DanTDM
-b. Dan Rhodes
-c. Mister Max
+- Average views per video = 5.34 million
+- Potential units sold per video = 5.34 million x conversion rate = 106,800 units sold
+- Potential revenue per video = 106,800 x product cost = £534,000
+- ** Net profit = £534,000 - campaign cost = £404,000**
 
-Best choice from category: Mister Max
+b. Dan Rhodes
+- Average views per video = 11.15 million
+- Potential units sold per video = 11.15 million x conversion rate = 223,000 units sold
+- Potential revenue per video = 223,000 x product cost = £1,115,000
+- ** Net profit = £1,115,000 - campaign cost = £985,000**
+
+c. Mister Max
+- Average views per video = 14.06 million
+- Potential units sold per video = 14.06 million x conversion rate = 281,200 units sold
+- Potential revenue per video = 281,200 x product cost = £1,406,000
+- ** Net profit = £1,406,000 - campaign cost = £1,276,000**
+
+
+Best choice from category: **Mister Max**
 
 #### SQL query 
 ```sql
@@ -690,12 +718,14 @@ ORDER BY
 
 #### Output
 
-- insert image here -
+![Most views](assets/images/most views campaign.png)
 
 # Concludion
 ## Discovery
 
 What were the overall findings?
+
+
 
 1. NoCopyrightSOunds, Dan Rhodes and DanTDM are the channnels with the most subscribers in the UK
 2. GRM Daily, Man City and Yogscast are the channels with the most videos uploaded
@@ -706,9 +736,14 @@ What were the overall findings?
 
 Actionable Insights:
 
-1. Dan Rhodes is the best YouTube channel to collaborate with if we want to maximize visbility because this channel has the most YouTube subscribers in the UK.
+![Actionable insights](assets/images/actionable insights.png)
+
+1. **Dan Rhodes** is the best YouTube channel to collaborate with if we want to **maximize visbility** because this channel has the **most YouTube subscribers in the UK**.
+   
 2. Although GRM Daily, Man City and Yogcasts are regular publishers on YouTube, it may be worth considering whether collaborating with them with the current budget caps are worth the effort, as the potential return on investments is significantly lower compared to the other channels.
-3. Mister Max is the best YouTuber to collaborate with if we're interested in maximizing reach, but collaborating with DanTDM and Dan Rhodes may be better long-term options considering the fact that they both have large subscriber bases and are averaging significantly high number of views.
+   
+3. **Mister Max** is the best YouTuber to collaborate with if we're interested in **maximizing reach**, but collaborating with **DanTDM and Dan Rhodes** may be better **long-term options** considering the fact that they both have large subscriber bases and are averaging significantly high number of views.
+   
 4. The top 3 channels to form collaborations with are NoCopyrightSounds, DanTDM and Dan Rhodes based on this analysis, because they attract the most engagement on their channels consistently.
 
 
@@ -716,15 +751,15 @@ Actionable Insights:
 ## Potential ROI
 What ROI is expected based on the actionable insights?
 
-1. Setting up a product placement deal with Dan Rhodes would make the client a net profit of $1,065,000 per video
-2. An influencer marketing contract with Mister Max can see the client generate a net profit of $1,276,000
-3. If we go with a product placement campaign with DanTDM, this could  generate the client approximately $484,000 per video. If we advance with an influencer marketing campaign deal instead, this would make the client a one-off net profit of $404,000.
-4. NoCopyrightSounds product placement could profit the client $642,000 per video too (which is worth considering) 
+1. Setting up a **product placement** deal with **Dan Rhodes** would make the client a net profit of **£1,065,000 per video**.
+2. An **influencer marketing contract** with **Mister Max** can see the client generate a net profit of **£1,276,000**.
+3. If we go with a **product placement campaign** with **DanTDM**, this could  generate the client approximately **£484,000 per video**. If we advance with an **influencer marketing campaign** deal instead, this would make the client a one-off net profit of **£404,000**.
+4. **NoCopyrightSounds product placement** could profit the client **£642,000 per video** too (which is worth considering). 
 
 
 ## Course of Action
 
-Based on the analysis, the best channel to partner with on a product placement deal would be Dan Rhodes.
+Based on the analysis, the best channel to partner with on a **product placement** deal would be **Dan Rhodes**.
 This initial deal will be assessed againsts the marketing teams initial forecasting. If the milestones are met throughout the deal, then future partnerships with DanTDM, Mister Max and NoCopyrightSounds can be advanced.
 
 Actioning the Insights:
