@@ -469,21 +469,21 @@ a. NoCopyrightSounds
 - Average views per video = 6.92 million
 - Potential units sold per video = 6.92 million x conversion rate = 138,400 units sold
 - Potential revenue per video = 138,400 x product cost = £692,000
-- ** Net profit = £692,000 - campaign cost = £642,000**
+- **Net profit = £692,000 - campaign cost = £642,000**
 
 b. DanTDM
 
 - Average views per video = 5.34 million
 - Potential units sold per video = 5.34 million x conversion rate = 106,800 units sold
 - Potential revenue per video = 106,800 x product cost = £534,000
-- ** Net profit = £534,000 - campaign cost = £484,000**
+- **Net profit = £534,000 - campaign cost = £484,000**
 
 c. Dan Rhodes
 
 - Average views per video = 11.15 million
 - Potential units sold per video = 11.15 million x conversion rate = 223,000 units sold
 - Potential revenue per video = 223,000 x product cost = £1,115,000
-- ** Net profit = £1,115,000 - campaign cost = £1,065,000**
+- **Net profit = £1,115,000 - campaign cost = £1,065,000**
 
 Best choice from category: **Dan Rhodes**
 
@@ -559,19 +559,19 @@ a. GRM Daily
 - Average views per video = 510,000
 - Potential units sold per video = 510,000 x conversion rate = 10,200 units sold
 - Potential revenue per video = 10,200 x product cost = £51,000
-- ** Net profit = £51,000 - campaign cost = -£4,0000 (potential LOSS)**
+- **Net profit = £51,000 - campaign cost = -£4,0000 (potential LOSS)**
   
 b. Manchester City
 - Average views per video = 240,000
 - Potential units sold per video = 240,000 x conversion rate = 4,800 units sold
 - Potential revenue per video = 4,800 x product cost = £24,000
-- ** Net profit = £24,000 - campaign cost = -£31,000 (potential LOSS)**
+- **Net profit = £24,000 - campaign cost = -£31,000 (potential LOSS)**
 
 c. Yogscast
 - Average views per video = 710,000
 - Potential units sold per video = 710,000 x conversion rate = 14,200 units sold
 - Potential revenue per video = 14,200 x product cost = £71,000
-- ** Net profit = £71,000 - campaign cost = £16,000 (PROFIT)**
+- **Net profit = £71,000 - campaign cost = £16,000 (PROFIT)**
 
 
 Best choice from category: **Yogscast**
@@ -646,19 +646,19 @@ a. DanTDM
 - Average views per video = 5.34 million
 - Potential units sold per video = 5.34 million x conversion rate = 106,800 units sold
 - Potential revenue per video = 106,800 x product cost = £534,000
-- ** Net profit = £534,000 - campaign cost = £404,000**
+- **Net profit = £534,000 - campaign cost = £404,000**
 
 b. Dan Rhodes
 - Average views per video = 11.15 million
 - Potential units sold per video = 11.15 million x conversion rate = 223,000 units sold
 - Potential revenue per video = 223,000 x product cost = £1,115,000
-- ** Net profit = £1,115,000 - campaign cost = £985,000**
+- **Net profit = £1,115,000 - campaign cost = £985,000**
 
 c. Mister Max
 - Average views per video = 14.06 million
 - Potential units sold per video = 14.06 million x conversion rate = 281,200 units sold
 - Potential revenue per video = 281,200 x product cost = £1,406,000
-- ** Net profit = £1,406,000 - campaign cost = £1,276,000**
+- **Net profit = £1,406,000 - campaign cost = £1,276,000**
 
 
 Best choice from category: **Mister Max**
