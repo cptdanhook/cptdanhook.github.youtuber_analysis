@@ -720,7 +720,7 @@ ORDER BY
 
 ![Most views](assets/images/most views campaign.png)
 
-# Concludion
+# Conclusion
 ## Discovery
 
 What were the overall findings?
@@ -736,7 +736,7 @@ What were the overall findings?
 
 Actionable Insights:
 
-![Actionable insights](assets/images/actionable insights.png)
+![Actionable insights](assets/images/actionable_insights.png)
 
 1. **Dan Rhodes** is the best YouTube channel to collaborate with if we want to **maximize visbility** because this channel has the **most YouTube subscribers in the UK**.
    
