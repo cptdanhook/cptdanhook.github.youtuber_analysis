@@ -90,7 +90,7 @@ Recommended data visuals:
 3. Scorecards
 4. Horizontal bar chart
 
-![Dashboard-Mockup](assets/images/dashboard mockup.png)
+![Dashboard-Mockup](assets/images/dashboard_mockup.png)
 
 ## Tools
 
@@ -295,7 +295,7 @@ HAVING
 
 How does the dashboards look?
 
-![Power BI Dashboard](assets/images/PowerBI dashboard.png)
+![Power BI Dashboard](assets/images/PowerBI_dashboard.png)
 
 
 ## DAX Measures
@@ -542,7 +542,7 @@ ORDER BY
 
 #### Output
 
-![Most subscribers](assets/images/most subs campaign.png)
+![Most subscribers](assets/images/most_subs_campaign.png)
 
 ### 2. Youtubers with the most videos uploaded
 
@@ -629,7 +629,7 @@ ORDER BY
 
 #### Output
 
-![Most videos](assets/images/most vids campaign.png)
+![Most videos](assets/images/most_vids_campaign.png)
 
 ### 3.  Youtubers with the most views 
 
@@ -718,7 +718,7 @@ ORDER BY
 
 #### Output
 
-![Most views](assets/images/most views campaign.png)
+![Most views](assets/images/most_views_campaign.png)
 
 # Conclusion
 ## Discovery
