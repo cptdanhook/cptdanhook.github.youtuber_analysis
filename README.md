@@ -1,4 +1,4 @@
-# Data Portfolio: Excel to Power BI
+# Data Portfolio: Youtube Channel Marketing Ananlysis (Excel - SQL - Power BI)
 
 
 # Table of Contents
