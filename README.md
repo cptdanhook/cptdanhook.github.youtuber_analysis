@@ -744,7 +744,7 @@ Actionable Insights:
    
 3. **Mister Max** is the best YouTuber to collaborate with if we're interested in **maximizing reach**, but collaborating with **DanTDM and Dan Rhodes** may be better **long-term options** considering the fact that they both have large subscriber bases and are averaging significantly high number of views.
    
-4. The top 3 channels to form collaborations with are NoCopyrightSounds, DanTDM and Dan Rhodes based on this analysis, because they attract the most engagement on their channels consistently.
+4. The top 3 channels to form collaborations with are **NoCopyrightSounds**, **DanTDM** and **Dan Rhodes** based on this analysis, because they attract the most engagement on their channels consistently.
 
 
 
